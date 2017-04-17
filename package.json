@@ -1,0 +1,21 @@
+{
+  "name": "deb-serv",
+  "version": "1.0.0",
+  "description": "server for debug, this send back all data request and headers, all",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joneldiablo/debServ/"
+  },
+  "keywords": [
+    "debug",
+    "server",
+    "node",
+    "http"
+  ],
+  "author": "JD-RDZ2 <jon_eldiablo@hotmail.com> (https://github.com/joneldiablo/generator-plugins)",
+  "license": "ISC"
+}
